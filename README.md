@@ -1,4 +1,4 @@
-# analytics sync
+# README
 
 A small data sync that reads the Sakila sample database through an ORM and writes a star schema (dimensions, bridges, facts) into a SQLite file, also through the ORM. It supports a full load, timestamp-driven incremental updates, and a validation command.
 
